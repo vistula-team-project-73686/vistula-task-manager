@@ -1,0 +1,12 @@
+body { font-family: system-ui, sans-serif; background: #f4f5f7; margin: 0; color: #222; }
+main { max-width: 640px; margin: 0 auto; padding: 24px 16px; }
+form { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; }
+input { padding: 8px; font-size: 1rem; }
+button { padding: 8px 12px; cursor: pointer; }
+.task-item { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 12px; margin-bottom: 10px; }
+.task-title { font-weight: 600; font-size: 1.1rem; }
+.task-description { color: #555; margin: 4px 0; }
+.task-status { font-size: .85rem; margin-bottom: 8px; }
+.task-item.done .task-title { text-decoration: line-through; color: #888; }
+#status-message { min-height: 1.2em; }
+#status-message.error { color: #b00020; }
