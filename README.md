@@ -7,4 +7,5 @@
 Simple Task Manager built with HTML, CSS and JavaScript, using a Supabase (PostgreSQL) database and its REST API, hosted on GitHub Pages.
 
 ## Pull Requests
-(Part B not done yet)
+   - Pull Request I created (merged into partner's repo): https://github.com/vistula-team-project-73795/vistula-task-manager/pull/1
+   - Pull Request I received (merged into my repo): https://github.com/vistula-team-project-73686/vistula-task-manager/pull/1
